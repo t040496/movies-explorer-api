@@ -27,10 +27,10 @@ const AUTHORIZATION_ERROR_MESSAGE = 'Неправильная почта или 
 
 // ALLOWED CORS DOMAINS
 const ALLOWED_CORS = [
-  'http://diplom.ld-webdev.nomoredomains.rocks',
-  'https://diplom.ld-webdev.nomoredomains.rocks',
-  'http://51.250.11.115',
-  'https://51.250.11.115',
+  'http://diplom-ts.nomoreparties.sbs',
+  'https://diplom-ts.nomoreparties.sbs',
+  'http://158.160.6.93',
+  'https://158.160.6.93',
   'http://localhost:3000',
   'http://localhost:3001',
 ];
